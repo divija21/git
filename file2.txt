@@ -1,2 +1,5 @@
 this is my second tracked file by using git
-if i have done changes into it then i have to add agian to staged the file ,when i check status then it shows one file o changed so we have to commit agian
+if i have done changes into it then i have to add agian to staged the file ,when i check status then it shows one 
+file o changed so we have to commit agian.
+to check the commit without mesage it opens a file or not.
+fsdds
