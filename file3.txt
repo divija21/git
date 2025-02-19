@@ -1,0 +1,1 @@
+hello this file is made to check the vs code is set as the defualt editor or not
